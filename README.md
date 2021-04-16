@@ -1,2 +1,3 @@
 # Welcome
-First Repo for this class
+First Repo for this class.
+This will be the repository for this page.
